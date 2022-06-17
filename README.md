@@ -145,7 +145,8 @@ il faut configurer nos identifiants Azure, openweather et efrei sur Github secre
 
 ### Container instance:
 
-![Untitled](DEVOPS%20-%20TP3%20b4d91a0afb7c4163932012a3815d4ec9/Untitled.png)
+![image](https://user-images.githubusercontent.com/48589267/174297259-36ec260b-4eb8-46b6-8bd7-3328bbf158d6.png)
+
 
 ## Résultat d’appel API depuis un lien cloud
 
